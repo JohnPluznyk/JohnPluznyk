@@ -7,7 +7,7 @@
 - Comptia A+
 - Comptia Network+
  
-- 📫 How to reach me ... pluznyk02@gmail.com
+How to reach me ... pluznyk02@gmail.com
 :octocat:
  
 <!---
