@@ -9,7 +9,6 @@
  
 - 📫 How to reach me ... pluznyk02@gmail.com
 :octocat:
-:curly_haired_man:
  
 <!---
 JohnPluznyk/JohnPluznyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
