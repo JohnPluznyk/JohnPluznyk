@@ -3,7 +3,7 @@
 - My introduction to coding was in grade school.  My favorite game growing up was pokemon and I got this tool called an action replay.  Essentially it booted up the game and let you mod the games binary.  At the time I didn't know I was coding but that was my introduction to coding.
 - I’m currently learning c++ so I can explore the core systems of Linux and how exactly they function. I am using the website Learncpp.com to learn c++.
 
-- Certificatons:
+## Certificatons:
 - Comptia A+
 - Comptia Network+
  
